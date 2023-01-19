@@ -29,9 +29,7 @@ export default function Nav() {
                 <a>・5</a>
                 </Link>
                 </li>
-
 		</ul>
 		</nav>
 	)
 }
-
