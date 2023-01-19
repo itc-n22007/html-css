@@ -2,7 +2,7 @@ import Link from 'next/link'
 
 export default function Nav() {
 	return (
-		<nav>
+	<nav>
 		<ul>
 		<li>
 		<Link legacyBehavior href='/1'>
@@ -30,6 +30,6 @@ export default function Nav() {
                 </Link>
                 </li>
 		</ul>
-		</nav>
+	</nav>
 	)
 }
