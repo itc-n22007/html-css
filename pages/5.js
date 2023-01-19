@@ -1,3 +1,3 @@
 export default function pages5() {
-  return ("♪ -")
+  return (<p>"♪ -"</p>)
 }
