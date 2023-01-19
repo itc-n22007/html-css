@@ -1,3 +1,6 @@
-export default function pages5() {
-  return (<p>def</p>)
+export default function pages5 () {
+	return (
+		<p>defo</p>
+	)
 }
+
