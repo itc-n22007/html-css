@@ -24,6 +24,11 @@ export default function Nav() {
                 <a>・4</a>
                 </Link>
                 </li>
+                <li>
+                <Link legacyBehavior href='/5'>
+                <a>・5</a>
+                </Link>
+                </li>
 
 		</ul
 		</nav>
