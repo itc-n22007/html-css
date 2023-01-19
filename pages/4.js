@@ -1,3 +1,3 @@
 export default function file4() {
-  return("yuniko----nnn")
+  return(<p>"yuniko----nnn"</p>)
 }
