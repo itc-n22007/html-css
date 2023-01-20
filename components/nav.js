@@ -25,7 +25,7 @@ export default function Nav() {
                 </Link>
                 </li>
                 <li>
-                <Link legacyBehavior href='/5'>
+                <Link legacyBehavior href='/6'>
                 <a>・5</a>
                 </Link>
                 </li>
